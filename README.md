@@ -1,4 +1,4 @@
-# DocuRefinery — Financial Strategies Library 📊
+# DocuRefinery — Financial Strategies Library 
 
 [![Website DocuRefinery](https://img.shields.io/badge/Official_Platform-DocuRefinery.com-0052FF?style=for-the-badge&logo=web)](https://docurefinery.com)
 [![Completely Free](https://img.shields.io/badge/Pricing-COMPLETELY_FREE-2ea44f?style=for-the-badge)](#)
@@ -10,14 +10,14 @@
 Welcome to the central storage engine for **DocuRefinery's "Social Oracle" AI**. 
 Every markdown document within this repository is **100% machine-generated** by our proprietary Python daemon. The engine operates autonomously, pushing daily institutional-grade technical, fundamental, and strategic analysis reports directly via the GitHub API.
 
-## 🧠 The Architecture
+## The Architecture
 
 Our automated pipeline loops through a rigorous production matrix entirely hands-free. 
 * **300 Global Symbology:** Analyzing top-tier mega-cap and growth equities.
 * **30 Strategic Architectures:** From "Cash Machine" and "Golden Ratio" to "AI Momentum" and "Deep Value". 
 * **16 Languages:** High-fidelity, flawless native localization preventing language barriers worldwide.
 
-### 🛡️ The "Zero Mock Data" Protocol (Hard Data Oracle)
+### The "Zero Mock Data" Protocol (Hard Data Oracle)
 Unlike conventional AI outputs which are notoriously prone to severe numerical hallucinations during complex tasks, our Social Oracle operates under a strict **Zero Tolerance** policy for mock data.
 
 Before generating any strategic narrative, our system interfaces directly with live **YFinance API** servers to scrape the exact-second real financial data (`Current Price`, `P/E`, `PEG`, `ROE`, `Market Cap`, `FCF`). This data is securely "hard-injected" into the prompting layer. The AI is strictly restricted to synthesize its narrative *only* utilizing these verifiable metrics. If genuine data is unavailable due to an equity being delisted or inactive, the engine automatically skips the asset to preserve mathematical integrity.
@@ -34,7 +34,7 @@ Files are systematically organized in a daily-immutable directory structure to m
  │    └── ...
 ```
 
-## 🔒 The Manifesto
+## The Manifesto
 
 We believe that professional-grade financial tools and data analysis should never be locked behind paywalls, predatory SaaS subscriptions, or invasive data-harvesting registration flows. 
 
